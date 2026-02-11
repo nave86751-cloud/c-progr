@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1770702796 source:c:\users\naveen\onedrive\desktop\new folder\program to read characters from a file using fgetc()\main.c
+	<stdio.h>
+	<stdlib.h>
+
